@@ -5,7 +5,7 @@ import Home from './pages/Home/Home'
 import Placeorder from './pages/placeorder/Placeorder'
 import Cart from './pages/Cart/Cart'
 import Footer from './components/Footer/Footer'
-import Myorder from './pages/myorders/myorder'
+import MyOrder from './pages/myorders/MyOrder';
 import Loginpopup from './components/Loginpopup/Loginpopup'
 import { Verify } from './pages/verify/Verify'
 
@@ -29,7 +29,7 @@ const App = () => {
 <Route path='/Cart' element={<Cart/>}/>
 <Route path='/order' element={<Placeorder/>}/>
 <Route path='/verify' element={<Verify/>}/>
-<Route path='/myorders' element={<Myorder/>}/>
+<Route path='/myorders' element={<MyOrder/>}/>
  
 
 
