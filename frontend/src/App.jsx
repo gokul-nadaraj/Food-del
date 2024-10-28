@@ -7,7 +7,7 @@ import Cart from './pages/Cart/Cart'
 import Footer from './components/Footer/Footer'
 import Loginpopup from './components/Loginpopup/Loginpopup'
 import { Verify } from './pages/verify/Verify'
-import MyOrder from './pages/myorders/MyOrder.jsx';
+import MyOrder from './pages/myorders/MyOrder';
 
 
 
