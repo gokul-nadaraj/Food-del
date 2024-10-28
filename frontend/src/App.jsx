@@ -5,7 +5,7 @@ import Home from './pages/Home/Home'
 import Placeorder from './pages/placeorder/Placeorder'
 import Cart from './pages/Cart/Cart'
 import Footer from './components/Footer/Footer'
-import MyOrder from './pages/myorders/MyOrder';
+import MyOrder from './pages/myorders/MyOrder.jsx'
 import Loginpopup from './components/Loginpopup/Loginpopup'
 import { Verify } from './pages/verify/Verify'
 
