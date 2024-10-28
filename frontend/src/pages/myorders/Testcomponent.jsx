@@ -3,7 +3,7 @@ import { storeContent } from '../../components/content/Storecontent'
 import { assets } from '../../../assets/frontend_assets/assets'
 import axios from 'axios'
 import './myorder.css'
-const MyOrder = () => {
+const Testcomponent = () => {
 
 const {url,token} = useContext(storeContent)
 const [data,setData] = useState([])
@@ -69,4 +69,4 @@ return(
   )
 }
 
-export default MyOrder
+export default Testcomponent
