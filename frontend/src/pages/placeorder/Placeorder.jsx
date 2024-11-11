@@ -1,5 +1,5 @@
 import React, { useContext,  useEffect,  useState } from 'react'
-import './Placeorder.css'
+import './placeorder.css'
 import { storeContent } from '../../components/content/Storecontent'
 
 import axios  from 'axios'
